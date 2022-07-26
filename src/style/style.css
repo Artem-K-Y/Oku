@@ -13,7 +13,7 @@ a{
     text-decoration: none;
 }
 
-.bottom-telefon-left, .bottom-telefon-left h2.telefon-left h2, .telefon-left p, .bottom-telefon-right, .bottom-telefon-right h2, .telefon-right h2 .telefon-right p, .telefon-left, .telefon-right, .telefon, .bottom-oku-app, .oku-app h2,.bottom-oku-app h2, .oku-app, .learn-more a, .learn-more, .banner-button, .banner-title, .button, .header, .main, .footer, .container, .head-menu, .banner, .bottom-telefon-left img,.telefon-left img, .telefon-right img, .bottom-telefon-right img, .commit-content-text, .commit-content-title, .twitter-comment, .commit, .team, .team-top, .team-bottom {
+.bottom-telefon-left, .bottom-telefon-left h2.telefon-left h2, .telefon-left p, .bottom-telefon-right, .bottom-telefon-right h2, .telefon-right h2 .telefon-right p, .telefon-left, .telefon-right, .telefon, .bottom-oku-app, .oku-app h2,.bottom-oku-app h2, .oku-app, .learn-more a, .learn-more, .banner-button, .banner-title, .button, .header, .main, .footer, .box, .head-menu, .banner, .bottom-telefon-left img,.telefon-left img, .telefon-right img, .bottom-telefon-right img, .commit-content-text, .commit-content-title, .twitter-comment, .commit, .team, .team-top, .team-bottom {
     width: 100%;
 }
 :root {
@@ -32,7 +32,7 @@ a{
     background: rgba(255, 255, 255, 0.96);
     box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1);
 }
-.container {
+.box {
     max-width: 1440px;
     display: flex;
     flex-direction: column;
